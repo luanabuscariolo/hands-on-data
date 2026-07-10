@@ -1,0 +1,12 @@
+# Node / Docusaurus
+node_modules/
+site/build/
+site/.docusaurus/
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# Índice gerado (reconstrói-se com indexar.py)
+agente/indice.json
